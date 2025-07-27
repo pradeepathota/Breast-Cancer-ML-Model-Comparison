@@ -3,6 +3,13 @@
 This project implements and compares multiple machine learning algorithms to classify breast cancer tumors as malignant or benign. Using the Breast Cancer Wisconsin Diagnostic Dataset, the workflow includes data preprocessing, model training, evaluation using accuracy and AUC, and visual performance comparison through bar plots and ROC curves.
 
 ---
+## 👨‍💻 Author
+
+**Venkata Pradeep Kumar Athota**  
+📧 pradeepathota3@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/pradeepathota)
+
+---
 
 ## 🎯 Objective
 
@@ -71,14 +78,6 @@ All models performed well, with **Gradient Boosting** and **SVM** showing strong
 
 - `main.py` or `notebook.ipynb` – Full code for data processing, modeling, and evaluation
 - `README.md` – Project documentation
-
----
-
-## 👨‍💻 Author
-
-**Venkata Pradeep Kumar Athota**  
-📧 pradeepathota3@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/pradeepathota)
 
 ---
 
